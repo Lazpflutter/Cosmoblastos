@@ -70,3 +70,8 @@ PARÁMETROS DE PROGRAMACIÓN (SEGÚN MISIÓN A.B.I.S.):
 - Variables clave: g-force, vibración (Hz), tiempo de amortiguación.
 - Objetivo: Comparar huevos con biopolímero vs. sin protección.
 ===============================================================================
+SOFTWARES A UTILIZAR
+Arduino IDE
+Visual Studio Code 
+CoolTerm 
+===============================================================================
